@@ -57,4 +57,4 @@ https://github.com/michau741/mz193tib
 Ten projekt jest udostępniany na licencji MIT. Szczegółowe informacje można znaleźć w dołączonym pliku LICENCJA.
  
 ## Autor
-Michał Zdunek
+Michal Zdunek
